@@ -1,0 +1,30 @@
+.r1
+{
+    color:red;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.s2
+{
+    color:red;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.s3
+{
+    color:blue;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: left;
+}
+
+.s4
+{
+    color:red;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: left;
+}
